@@ -1,0 +1,23 @@
+ul{
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 36px;
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  padding: 15px;
+  max-width: 1152px;
+  margin: auto;
+  height: 100px;
+}
+
+img{
+  width: 160px;
+  height: 104px;
+}

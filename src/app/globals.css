@@ -1,0 +1,13 @@
+/* layout.js에 연결된 스타일시트 (그래서 모든 페이지에 적용됨) */
+
+*{
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+}
+
